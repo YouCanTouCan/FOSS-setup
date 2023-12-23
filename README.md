@@ -4,4 +4,4 @@ A repository containing a recommended setup on a Pixel 8 Pro rootless running Gr
 # App Stores
 The following recommendations can be used in tandem with one another to obtain any other app on this list. 
 ## Google Play Store (Sandboxed)
-The Google Play Store you are all familiar with, but sandboxed. This can only be achieved  <test>
+The Google Play Store you are all familiar with, but sandboxed. This can only be achieved  **test**
