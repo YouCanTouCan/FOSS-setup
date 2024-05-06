@@ -15,11 +15,11 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Software Stores/Finders](#software-stores/finders)
 
 # Software Stores/Finders
-These are software capable of disocvering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list, and as such they are listed first. 
+These are software capable of discovering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list, and as such they are listed first. 
 
 - ### 🖥️ [Discover](https://apps.kde.org/discover/) 🐐
    *Gratis, Fedora 40 KDE Repository, Fully FOSS, Active*  
-   The Discover store is the main store when using the KDE desktop environment. It allows you to install software from a wide variety of repositories, as well as search for software by category, and read reviews. Overall an effectivesoftware store.
+   The Discover store is the main store when using the KDE desktop environment. It allows you to install software from a wide variety of repositories, as well as search for software by category, and read reviews. Overall an effective software store.
 - ### 📱 [F-Droid](https://f-droid.org/en/)
    *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS, Active*  
    F-Droid allows you to, shockingly, download apps from the F-Droid repository, as well as other repositories if you add them. A great solution to download FOSS apps on your phone.
