@@ -115,7 +115,7 @@ VPNs, or Virtual Private Networks, are services that provide a proxy between you
    Another really great VPN, that has long-promised and been audited to be keeping no logs. Unlike Mullvad, supports port forwarding, which is useful when torrenting for example.
 
 # DNS
-DNS, or Domain Name System, can be likened to a phonebook - it basically tells your phone what website is what, and more. Full transparency, I'm fuzzy on the details.
+DNS, or Domain Name System, can be likened to a phonebook - it basically tells your phone or computer where to locate websites and other resources on the internet. By running your own DNS server, you can block access to resources you don't like - such as ads - by preventing devices on your network from locating the resources needed to load them.
 
 - ### 🛜 [NextDNS](https://nextdns.io/) 🐐
    *Freemium & Self-Hostable, CLI only, Fully FOSS, Intermittent Development, Default Permissions*  
