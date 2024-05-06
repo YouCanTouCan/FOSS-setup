@@ -155,8 +155,14 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
    *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
    A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
 
+# Firefox Addons
+Extensions to the functionality of Firefox, or any of its various forks, by third parties. Some of these may have chromium equivalents, however this will focus purely on Firefox extensions.
+- ### 📱 [Absolute Enable Right Click & Copy](https://github.com/GrapheneOS/Vanadium) 🐐
+   *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
+   A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
+
 # Search Engines
-Things like Google, which allow you to easily find websites and relevant information online.
+Websites which allow you to easily find websites and relevant information online through the use of keywords and phrases.
 
 - ### 🛜 [SearXNG](https://github.com/searxng/searxng)
    *Gratis & Self-Hostable, No installation, Fully FOSS, Active*  
