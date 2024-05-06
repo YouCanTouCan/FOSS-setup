@@ -117,3 +117,46 @@ DNS, or Domain Name System, can be likened to a phonebook - it basically tells y
 - ### 🛜 [NextDNS](https://nextdns.io/) 🐐
    *Freemium, CLI only, Fully FOSS, Intermittent Development, Default Permissions*  
    A highly customizable DNS, allowing you to block specific ads trackers, and websites highly effectively device-wide.
+
+# Clearnet Browsers
+GUI Apps that allow you to access webpages on the clearnet (the "normal" internet). 
+
+- ### 🛜 [Firefox](https://www.mozilla.org/en-US/firefox/) 🐐
+   *Gratis, Fedora 40 KDE Repository OR Google Play Store, Fully FOSS, Active, Default Permissions*  
+   A long-standing browser built with privacy in mind. DOES come with some telemtry and stuff, but for most people that is no issue, and it is all removable should you choose to. Also fast and highly customizable, supporting many addons and themes.
+
+  - ### 🖥️ [Arkenfox](https://github.com/arkenfox/user.js) 🐐
+    *Gratis, Manual Installation from Github, Fully FOSS, Active*  
+    A custom config you can enable in the default Firefox app (so you still get Mozilla's quick security updates) that hardens the browser to make it extremely privacy-focused. Still has all the functionality of default Firefox, but with much superior privacy.
+
+  - ### 🖥️ [Betterfox](https://github.com/yokoffing/Betterfox)
+    *Gratis, Manual Installation from Github, Fully FOSS, Active*  
+    A custom config you can enable in the default Firefox app (so you still get Mozilla's quick security updates) that provides greater privacy, speed, and efficiency. Breaks less sites when compared to Arkenfox, but is far less private.
+
+- ### 🖥️ [Mullvad](https://mullvad.net/en/browser)
+   *Gratis, Flatpak, Fully FOSS, Active*  
+   A fork of Firefox built to bring fingerprinting to an absolute minimal while still using the clearnet (unlike Tor). Makes you practically invisible if you don't sign in, but you should not customize it in any way whatsoever or you will break your privacy.
+
+- ### 🖥️ [Librewolf](https://librewolf.net/)
+   *Gratis, Flatpak, Fully FOSS, Active*  
+   A fork of Firefox that is hardened by default - sort of like Arkenfox, but with every so slightly slower security updates, ever so slightly less extension support, but it is all set up for you.
+
+- ### 🖥️ [Floorp](https://floorp.app/en/)
+   *Gratis, Flatpak, Fully FOSS, Active*  
+   A fork of Firefox providing some features that many consider to be missing from base Firefox - for example, vertical tabs, a sidebar, an easier profile changer, and so on.
+
+- ### 🖥️ [Brave](https://brave.com/)
+   *Gratis, AppImage OR Google Play Store, Fully FOSS, Active*  
+   A Chromium based browser that attempts to provide better privacy than other Chromium browsers. Has built-in ad and tracker blockers.
+
+- ### 📱 [Mull](https://gitlab.com/divested-mobile/mull-fenix) 🐐
+   *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A fork of Firefox that is hardened by default, similar to Librewolf but on Android. Makes many security and privacy changes based on Arkenfox and the Tor Project.
+
+- ### 📱 [Iceraven](https://github.com/fork-maintainers/iceraven-browser) 🐐
+   *Gratis, Side-Loaded APK, Fully FOSS, Active, Default Permissions*  
+   A fork of Firefox providing some features many consider to be missing from Firefox on Android- for example, about:config support, tab suspension, more add-on support, and so on.
+
+- ### 📱 [Vanadium](https://github.com/GrapheneOS/Vanadium) 🐐
+   *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
+   A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
