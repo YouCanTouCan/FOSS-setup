@@ -20,7 +20,8 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Android Keyboards](#android-keyboards)  
 [VPNs](#vpns)  
 [DNS](#dns)  
-[Clearnet Browsers](#clearnet-browsers)
+[Clearnet Browsers](#clearnet-browsers)  
+[Darknet Access](#darknet-access)  
 
 # Software Stores, Managers, and Finders
 These are software capable of discovering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list. 
@@ -125,39 +126,49 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
 - ### 🛜 [Firefox](https://www.mozilla.org/en-US/firefox/) 🐐
    *Gratis, Fedora 40 KDE Repository OR Google Play Store, Fully FOSS, Active, Default Permissions*  
    A long-standing browser built with privacy in mind. DOES come with some telemtry and stuff, but for most people that is no issue, and it is all removable should you choose to. Also fast and highly customizable, supporting many addons and themes.
-
   - ### 🖥️ [Arkenfox](https://github.com/arkenfox/user.js) 🐐
     *Gratis, Manual Installation from Github, Fully FOSS, Active*  
     A custom config you can enable in the default Firefox app (so you still get Mozilla's quick security updates) that hardens the browser to make it extremely privacy-focused. Still has all the functionality of default Firefox, but with much superior privacy.
-
   - ### 🖥️ [Betterfox](https://github.com/yokoffing/Betterfox)
     *Gratis, Manual Installation from Github, Fully FOSS, Active*  
     A custom config you can enable in the default Firefox app (so you still get Mozilla's quick security updates) that provides greater privacy, speed, and efficiency. Breaks less sites when compared to Arkenfox, but is far less private.
-
 - ### 🖥️ [Mullvad](https://mullvad.net/en/browser)
    *Gratis, Flatpak, Fully FOSS, Active*  
    A fork of Firefox built to bring fingerprinting to an absolute minimal while still using the clearnet (unlike Tor). Makes you practically invisible if you don't sign in, but you should not customize it in any way whatsoever or you will break your privacy.
-
 - ### 🖥️ [Librewolf](https://librewolf.net/)
    *Gratis, Flatpak, Fully FOSS, Active*  
    A fork of Firefox that is hardened by default - sort of like Arkenfox, but with every so slightly slower security updates, ever so slightly less extension support, but it is all set up for you.
-
 - ### 🖥️ [Floorp](https://floorp.app/en/)
    *Gratis, Flatpak, Fully FOSS, Active*  
    A fork of Firefox providing some features that many consider to be missing from base Firefox - for example, vertical tabs, a sidebar, an easier profile changer, and so on.
-
 - ### 🛜 [Brave](https://brave.com/)
    *Gratis, AppImage OR Google Play Store, Fully FOSS, Active*  
    A Chromium based browser that attempts to provide better privacy than other Chromium browsers. Has built-in ad and tracker blockers.
-
 - ### 📱 [Mull](https://gitlab.com/divested-mobile/mull-fenix) 🐐
    *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A fork of Firefox that is hardened by default, similar to Librewolf but on Android. Makes many security and privacy changes based on Arkenfox and the Tor Project.
-
 - ### 📱 [Iceraven](https://github.com/fork-maintainers/iceraven-browser) 🐐
    *Gratis, Side-Loaded APK, Fully FOSS, Active, Default Permissions*  
    A fork of Firefox providing some features many consider to be missing from Firefox on Android- for example, about:config support, tab suspension, more add-on support, and so on.
-
 - ### 📱 [Vanadium](https://github.com/GrapheneOS/Vanadium) 🐐
    *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
    A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
+
+# Darknet Access
+Apps that allow you to access the Darknet, including browsers and other apps.
+
+- ### 🛜 [Tor Browser](https://www.torproject.org/) 🐐
+   *Gratis, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A browser built to minimize fingerprinting and reroute all traffic through the Tor Network. Also allows you to access .onion sites. DO NOT edit your browser in any way, shape, or form, outside of setting it to Safest mode or you will be fingerprintable. Extremely slow, but the absolute best for privacy.
+
+- ### 📱 [Orbot](https://guardianproject.info/apps/org.torproject.android/) 🐐
+   *Gratis, Guardian Project Repository, Fully FOSS, Active, Default Permissions*  
+   Allows you to proxy apps to run all traffic through the TOR Network. Useful if you want to maximize privacy within a certain app or across your whole phone.
+
+- ### 🛜 [I2P](https://geti2p.net/en/)
+   *Gratis, CLI Installation OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   Allows you to run a browser through I2P, allowing you to access eepsites.
+
+- ### 🛜 [I2PD](https://i2pd.website/) 🐐
+   *Gratis, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A C++ Implementation of I2P, which allows you to do all the same things you can with regulat I2P.
