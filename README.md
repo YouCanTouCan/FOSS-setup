@@ -155,7 +155,7 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
    *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
    A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
 
-# Search Enginges
+# Search Engines
 Things like Google, which allow you to easily find websites and relevant information online.
 
 - ### 🛜 [SearXNG](https://github.com/searxng/searxng)
