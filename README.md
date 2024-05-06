@@ -21,6 +21,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [VPNs](#vpns)  
 [DNS](#dns)  
 [Clearnet Browsers](#clearnet-browsers)  
+[Search Engines](#search-engines)  
 [Darknet Access](#darknet-access)  
 
 # Software Stores, Managers, and Finders
@@ -117,7 +118,7 @@ VPNs, or Virtual Private Networks, are services that provide a proxy between you
 DNS, or Domain Name System, can be likened to a phonebook - it basically tells your phone what website is what, and more. Full transparency, I'm fuzzy on the details.
 
 - ### 🛜 [NextDNS](https://nextdns.io/) 🐐
-   *Freemium, CLI only, Fully FOSS, Intermittent Development, Default Permissions*  
+   *Freemium & Self-Hostable, CLI only, Fully FOSS, Intermittent Development, Default Permissions*  
    A highly customizable DNS, allowing you to block specific ads trackers, and websites highly effectively device-wide.
 
 # Clearnet Browsers
@@ -154,6 +155,13 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
    *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
    A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
 
+# Search Enginges
+Things like Google, which allow you to easily find websites and relevant information online.
+
+- ### 🛜 [SearXNG](https://github.com/searxng/searxng)
+   *Gratis & Self-Hostable, No installation, Fully FOSS, Active*  
+   A metasearch engine, which you can set up to search the results from other search engines, priotizing what exactly you want.
+  
 # Darknet Access
 Apps that allow you to access the Darknet, including browsers and other apps.
 
@@ -166,9 +174,9 @@ Apps that allow you to access the Darknet, including browsers and other apps.
    Allows you to proxy apps to run all traffic through the TOR Network. Useful if you want to maximize privacy within a certain app or across your whole phone.
 
 - ### 🛜 [I2P](https://geti2p.net/en/)
-   *Gratis, CLI Installation OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   *Gratis & Self-Hostable, CLI Installation OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    Allows you to run a browser through I2P, allowing you to access eepsites.
 
 - ### 🛜 [I2PD](https://i2pd.website/) 🐐
-   *Gratis, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   *Gratis & Self-Hostable, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A C++ Implementation of I2P, which allows you to do all the same things you can with regulat I2P.
