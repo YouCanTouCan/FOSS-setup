@@ -60,4 +60,7 @@ VPNs, or Virtual Private Networks, are services that provide a proxy between you
 
 - ### 🛜 [Mullvad](https://mullvad.net/en)
    *Paid, Flatpak OR F-Droid repository, Fully FOSS, Active, Default Permissions*  
-   Likely the best VPN out there for privacy reasons, as they 
+   Likely the best VPN out there for privacy reasons, as they have a proven track record (not just promised track record) of keeping no logs.
+- ### 🛜 [Proton VPN](https://protonvpn.com/)
+   *Paid, Flatpak OR F-Droid repository, Fully FOSS, Active, Default Permissions*  
+   Another really great VPN, that has long-promised and been audited to be keeping no logs. Unlike Mullvad, supports port forwarding, which is useful when torrenting for example.
