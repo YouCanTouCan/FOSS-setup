@@ -16,6 +16,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Software Stores, Managers, and Finders](#software-stores-managers-and-finders)  
 [Android Launchers](#android-launchers)  
 [VPNs](#vpns)  
+[DNS](#dns)  
 
 # Software Stores, Managers, and Finders
 These are software capable of discovering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list. 
@@ -64,3 +65,10 @@ VPNs, or Virtual Private Networks, are services that provide a proxy between you
 - ### 🛜 [Proton VPN](https://protonvpn.com/)
    *Paid, Flatpak OR F-Droid repository, Fully FOSS, Active, Default Permissions*  
    Another really great VPN, that has long-promised and been audited to be keeping no logs. Unlike Mullvad, supports port forwarding, which is useful when torrenting for example.
+
+# DNS
+DNS, or Domain Name System, can be likened to a phonebook - it basically tells your phone what website is what, and more. Full transparency, I'm fuzzy on the details.
+
+- ### 🛜 [NextDNS](https://nextdns.io/) 🐐
+   *Freemium, CLI only, Fully FOSS, Intermittent Development, Default Permissions*  
+   A highly customizable DNS, allowing you to block specific ads trackers, and websites highly effectively device-wide.
