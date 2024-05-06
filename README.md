@@ -146,7 +146,7 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
    *Gratis, Flatpak, Fully FOSS, Active*  
    A fork of Firefox providing some features that many consider to be missing from base Firefox - for example, vertical tabs, a sidebar, an easier profile changer, and so on.
 
-- ### 🖥️ [Brave](https://brave.com/)
+- ### 🛜 [Brave](https://brave.com/)
    *Gratis, AppImage OR Google Play Store, Fully FOSS, Active*  
    A Chromium based browser that attempts to provide better privacy than other Chromium browsers. Has built-in ad and tracker blockers.
 
