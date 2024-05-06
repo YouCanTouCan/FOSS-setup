@@ -18,15 +18,15 @@ Note: Software may be listed under multiple sections, should they be relevant to
 These are software capable of disocvering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list, and as such they are listed first. 
 
 - ### 🖥️ [Discover](https://apps.kde.org/discover/) 🐐
-   *Gratis, Fedora 40 KDE Repository, Fully FOSS*  
+   *Gratis, Fedora 40 KDE Repository, Fully FOSS, Active*  
    The Discover store is the main store when using the KDE desktop environment. It allows you to install software from a wide variety of repositories, as well as search for software by category, and read reviews. Overall an effectivesoftware store.
 - ### 📱 [F-Droid](https://f-droid.org/en/)
-   *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS*  
+   *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS, Active*  
    F-Droid allows you to, shockingly, download apps from the F-Droid repository, as well as other repositories if you add them. A great solution to download FOSS apps on your phone.
 - ### 📱 [Droidify](https://github.com/Droid-ify/client) 🐐
-   *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS*  
+   *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS, Active*  
    Droidify is an alternative app for downloading apps on your phone, with a high number of repositories included (most notably F-Droid and IzzyonDroid) as well as Material You theming. Very pretty, very functional.
  - ### 📱 [Obtainium](https://github.com/ImranR98/Obtainium) 🐐
-   *Gratis, F-Droid repository, Fully FOSS*  
+   *Gratis, F-Droid repository, Fully FOSS, Active*  
    An app that allows you to compile and obtain apps directly from Github, removing the middle-man of an app like F-Droid or Droidify. Also very useful for apps that simply are not in any repository.
    
