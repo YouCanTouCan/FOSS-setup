@@ -20,6 +20,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Android Keyboards](#android-keyboards)  
 [VPNs](#vpns)  
 [DNS](#dns)  
+[Clearnet Browsers](#clearnet-browsers)
 
 # Software Stores, Managers, and Finders
 These are software capable of discovering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list. 
