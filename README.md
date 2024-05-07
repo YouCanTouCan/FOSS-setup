@@ -21,6 +21,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [VPNs](#vpns)  
 [DNS](#dns)  
 [Clearnet Browsers](#clearnet-browsers)  
+[Firefox Addons](#firefox-addons)
 [Search Engines](#search-engines)  
 [Darknet Access](#darknet-access)  
 
@@ -185,6 +186,9 @@ Extensions to the functionality of Firefox, or any of its various forks, by thir
 - ### 🖥️ [Flagfox](https://flagfox.net/) 🐐
    *Gratis, Firefox Addons, Fully FOSS, Active*  
    Allows you to see in your search bar the country that the server you are connecting to is on any given website.
+- ### 🖥️ [Multi Account Containers](https://github.com/mozilla/multi-account-containers) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   An official Mozilla extension. Provides you with slightly better than default website isolation, and allows you to open a website in two different tabs with two different accounts at once.
 - ### 🖥️ [Gesturefy](https://github.com/Robbendebiene/Gesturefy) 🐐
    *Gratis, Firefox Addons, Fully FOSS, Active*  
    Allows you to maneuver your browser faster using mouse-based gestures activated by holding down right click.
@@ -200,7 +204,45 @@ Extensions to the functionality of Firefox, or any of its various forks, by thir
 - ### 🖥️ [Request Control](https://github.com/tumpio/requestcontrol) 🐐
    *Gratis, Firefox Addons, Fully FOSS, Inactive*  
    Allows you to selectively block specific HTTP requests, which you can use to block some third-party connections on websites you visit.
-  
+- ### 🖥️ [Side View](https://github.com/mozilla/side-view) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   An official Mozilla extension, that allows you to open websites in the browser sideview, and thus have two websites open side by side in one window.
+- ### 🖥️ [Simple Tab Groups](https://github.com/Drive4ik/simple-tab-groups) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Allows you to save groups of tabs under a name, which can be opened at any later time. Never lose a tab again.
+- ### 🛜 [SingleFile](https://github.com/gildas-lormeau/SingleFile) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to download a website as an HTML file.
+- ### 🖥️ [Snowflake](https://snowflake.torproject.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Turns your browser into a proxy which allows people in oppressed countries, where they can't access Tor, to connect to the network through your computer. Non-identifying and completely safe.
+- ### 🖥️ [Tabliss](https://tabliss.io/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Allows you to edit your new tab page significantly, to make it exactly as you like.
+- ### 🖥️ [Temporary Containers](https://github.com/stoically/temporary-containers) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Inactive*  
+   Uses the infrastructure of Multi Account Containers to open every new tab in its own container. Increases isolation between websites very slightly.
+- ### 🛜 [Terms of Service; Didn't Read](https://tosdr.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to see a human-readable version of the Terms of Service of every website you visit, as well as an A-E rating, all done by lawyer volunteers.
+- ### 🛜 [uBlock Origin](https://ublockorigin.com/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   An amazing privacy addon which also blocks adds. Highly customizable, allowing you to replace almost all other privacy addons which one used to need.
+- ### 🛜 [Under New Management](https://github.com/classvsoftware/under-new-management) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Warns you if any of your browser addons change ownership on the Firefox Addon store, so you can make sure it wasn't bought out by a shady company or something.
+- ### 🛜 [Unpaywall](https://unpaywall.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   When you visit a paywalled article which is available for free legally on another website, it will notify you.
+- ### 🛜 [Web Archives](https://github.com/dessant/web-archives) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to open a website in a variety of archival sites, such as the Wayback Machine, to see how it has changed over time.
+- ### 🖥️ [XDM Browser Monitor v8+](https://xtremedownloadmanager.com) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Connects with Xtreme Download Manager, to allow you to download things in it directly from your browser.
+- ### 🖥️ [Zotero Connector](https://www.zotero.org/download/connectors) 🐐
+   *Gratis, Sideloaded Addon, Fully FOSS, Active*  
+   Connects with Zotero, to allow you to save websites with their metadata into Zotero directly from your browser.
 
 # Search Engines
 Websites which allow you to easily find websites and relevant information online through the use of keywords and phrases.
