@@ -34,6 +34,9 @@ These are software capable of discovering other software and/or download other s
 - ### 🖥️ [Software](https://apps.gnome.org/Software/)
    *Gratis, Fedora 40 Gnome Repository, Fully FOSS, Active*  
    The main software store for the Gnome desktop environment. It allows you to install software from a wide variety of repositories, as well as search for software by category, and read reviews. Overall an effective software store.
+- ### 📱 [Aurora Store](https://auroraoss.com/)
+   *Gratis, F-Droid repository, Fully FOSS, Active, Default Permissions*  
+   Allows you to download and update apps from the Google Play Store anonymously. There are rumors that signing in may get your Google account banned so... don't do that maybe.
 - ### 📱 [F-Droid](https://f-droid.org/en/)
    *Gratis, Side-loaded APK OR F-Droid repository, Fully FOSS, Active, Default Permissions*  
    F-Droid allows you to, shockingly, download apps from the F-Droid repository, as well as other repositories if you add them. A great solution to download FOSS apps on your phone.
