@@ -21,7 +21,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [VPNs](#vpns)  
 [DNS](#dns)  
 [Clearnet Browsers](#clearnet-browsers)  
-[Firefox Addons](#firefox-addons)
+[Firefox Addons](#firefox-addons)  
 [Search Engines](#search-engines)  
 [Darknet Access](#darknet-access)  
 
