@@ -168,7 +168,7 @@ Extensions to the functionality of Firefox, or any of its various forks, by thir
 - ### 🖥️ [Behave!](https://github.com/mindedsecurity/behave) 🐐
    *Gratis, Firefox Addons, Fully FOSS, Inactive*  
    A simple addon that monitors to see if webpages attempt several different types of attacks. If you never have a problem, it will never bother you.
-- ### 🛜 [Bitwarden]([https://bitwarden.com/download/) 🐐
+- ### 🛜 [Bitwarden](https://bitwarden.com/download/) 🐐
    *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
    The official firefox addon for Bitwarden Password Manager. Allows you to easily autofill passwords into your browser.
 - ### 🖥️ [KeePassXC-Browser](https://keepassxc.org/)
