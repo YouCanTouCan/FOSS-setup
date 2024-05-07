@@ -311,7 +311,7 @@ Apps and websites primarily for which you can message other people, typically on
 # Group Messaging Services
 Services designed for messaging en masse - for example, the proprietary apps Discord or Slack. May still have the ability to message people more directly. Many of these are decentralized, in which case the entry listed will be a major client, with the federated service being specified in the notes. There are many, many clients that may not be listed.
 
-- ### 🛜 [Element](https://element.io/)
+- ### 🛜 [Element](https://element.io/) 🐐
    *Gratis & Self-Hostable, F-Droid Repository OR Flatpak, Fully FOSS, Active, Default Permissions*  
    A client for the federated service Matrix.org. Works in a very similar way to Discord or Slack, but FOSS and end to end encrypted.
 - ### 🖥️ [Konversation](https://konversation.kde.org/)
