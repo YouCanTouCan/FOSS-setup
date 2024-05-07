@@ -157,9 +157,50 @@ GUI Apps that allow you to access webpages on the clearnet (the "normal" interne
 
 # Firefox Addons
 Extensions to the functionality of Firefox, or any of its various forks, by third parties. Some of these may have chromium equivalents, however this will focus purely on Firefox extensions.
-- ### 📱 [Absolute Enable Right Click & Copy](https://github.com/GrapheneOS/Vanadium) 🐐
-   *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
-   A Chromium based browser that has been hardened, and works as the default browser on GrapheneOS. Also provides the WebView.
+
+- ### 🖥️ [Languagetool](https://languagetool.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   A grammar and spellchecker that supports a wide variety of language and utilizes some AI functions. Similar to the propreitary software Grammarly.
+- ### 🖥️ [Behave!](https://github.com/mindedsecurity/behave) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Inactive*  
+   A simple addon that monitors to see if webpages attempt several different types of attacks. If you never have a problem, it will never bother you.
+- ### 🛜 [Bitwarden]([https://bitwarden.com/download/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   The official firefox addon for Bitwarden Password Manager. Allows you to easily autofill passwords into your browser.
+- ### 🖥️ [KeePassXC-Browser](https://keepassxc.org/)
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   The official firefox addon for KeePassXC Password Manager. Allows you to easily autofill passwords into your browser.
+- ### 🖥️ [Buster](https://github.com/dessant/buster) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   An addon that attempts to automatically complete captchas for you.
+- ### 🖥️ Bypass Paywalls Clean 🐐
+   *Gratis, Sideloaded Addon, Fully FOSS, Active*  
+   An addon that forecefully bypasses soft paywalls on websites. This was taken down both on the Firefox Addon store as well as Github, so it is hard to find safely nowadays and has no current official source. Be careful what you download.
+- ### 🛜 [Chameleon](https://github.com/sereneblue/chameleon) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to spoof your timezone, user-agent, and more. Not useful for privacy, as it is easily detectable, but can get you past "Browser Not Supported" blocks and speed up websites that are made intentionally slow on Firefox (looking at you, YouTube)
+- ### 🛜 [Dark Reader](https://darkreader.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to force dark mode on all websites, with a blacklist toggle. Works very effectively, with it only rarely breaking websites. Can slow down the browser somewhat.
+- ### 🖥️ [Flagfox](https://flagfox.net/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Allows you to see in your search bar the country that the server you are connecting to is on any given website.
+- ### 🖥️ [Gesturefy](https://github.com/Robbendebiene/Gesturefy) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Allows you to maneuver your browser faster using mouse-based gestures activated by holding down right click.
+- ### 🖥️ [Joplin Web Clipper](https://joplinapp.org/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   The official firefox addon for Joplin, the note-taking tool. Allows you to save websites into Joplin.
+- ### 🛜 [LibRedirect](https://libredirect.github.io/) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active, Default Permissions*  
+   Allows you to automatically open links for whitelisted websites in privacy-focused frontends. For example, open YouTube links in FreeTube.
+- ### 🖥️ [Plasma Browser Integration](https://github.com/KDE/plasma-browser-integration) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Active*  
+   Official KDE Firefox addon. Provides better integration between Firefox and the KDE Desktop Environment.
+- ### 🖥️ [Request Control](https://github.com/tumpio/requestcontrol) 🐐
+   *Gratis, Firefox Addons, Fully FOSS, Inactive*  
+   Allows you to selectively block specific HTTP requests, which you can use to block some third-party connections on websites you visit.
+  
 
 # Search Engines
 Websites which allow you to easily find websites and relevant information online through the use of keywords and phrases.
@@ -174,15 +215,12 @@ Apps that allow you to access the Darknet, including browsers and other apps.
 - ### 🛜 [Tor Browser](https://www.torproject.org/) 🐐
    *Gratis, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A browser built to minimize fingerprinting and reroute all traffic through the Tor Network. Also allows you to access .onion sites. DO NOT edit your browser in any way, shape, or form, outside of setting it to Safest mode or you will be fingerprintable. Extremely slow, but the absolute best for privacy.
-
 - ### 📱 [Orbot](https://guardianproject.info/apps/org.torproject.android/) 🐐
    *Gratis, Guardian Project Repository, Fully FOSS, Active, Default Permissions*  
    Allows you to proxy apps to run all traffic through the TOR Network. Useful if you want to maximize privacy within a certain app or across your whole phone.
-
 - ### 🛜 [I2P](https://geti2p.net/en/)
    *Gratis & Self-Hostable, CLI Installation OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    Allows you to run a browser through I2P, allowing you to access eepsites.
-
 - ### 🛜 [I2PD](https://i2pd.website/) 🐐
    *Gratis & Self-Hostable, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A C++ Implementation of I2P, which allows you to do all the same things you can with regulat I2P.
