@@ -269,3 +269,16 @@ Apps that allow you to access the Darknet, including browsers and other apps.
 - ### 🛜 [I2PD](https://i2pd.website/) 🐐
    *Gratis & Self-Hostable, AppImage OR F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A C++ Implementation of I2P, which allows you to do all the same things you can with regulat I2P.
+
+# Phone Calling
+Any app which allows you to actually use your Android phone as a phone. I know, shocking in this day and age.
+
+- ### 📱 [Koler](https://github.com/Chooloo/koler)
+   *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A simple Dialer app that gets the job done. No crazy features, just exactly what one would expect out of a dialer app.
+- ### 📱 [Fossify Phone](https://github.com/FossifyOrg/Phone)
+   *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A dialer app that, yet again, simply works. Fairly customizable.
+- ### 📱 Phone
+   *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
+   The default GrapheneOS phone app. Works well, and even has a recording feature built in.
