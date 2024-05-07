@@ -24,6 +24,9 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Firefox Addons](#firefox-addons)  
 [Search Engines](#search-engines)  
 [Darknet Access](#darknet-access)  
+[Phone Callingg](#phone-calling)  
+[Messaging Services](#messaging-services)  
+[Group Messaging Services](#group-messaging-services)
 
 # Software Stores, Managers, and Finders
 These are software capable of discovering other software and/or download other software. These recommendations can be used in tandem with one another to obtain most other apps on this list. 
@@ -279,6 +282,56 @@ Any app which allows you to actually use your Android phone as a phone. I know, 
 - ### 📱 [Fossify Phone](https://github.com/FossifyOrg/Phone)
    *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
    A dialer app that, yet again, simply works. Fairly customizable.
-- ### 📱 Phone
+- ### 📱 Phone 🐐
    *Gratis, GrapheneOS Default App, Fully FOSS, Active, Default Permissions*  
    The default GrapheneOS phone app. Works well, and even has a recording feature built in.
+- ### 📱 [Raise To Answer](https://github.com/TheLastProject/RaiseToAnswer) 🐐
+   *Gratis, F-Droid Repository, Fully FOSS, Intermittent Development, Default Permissions*  
+   Allows you to answer phone calls by simply raising them to your ear, with no need to click any buttons.
+- ### 📱 [Carrion](https://github.com/Divested-Mobile/Carrion) 🐐
+   *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   Blocks spoofed calls, to remove most spam calls.
+
+# Messaging Services
+Apps and websites primarily for which you can message other people, typically one at a time or in small group chats. Distinct from social media or group messaging in design and function.
+
+- ### 🛜 [Signal](https://signal.org/)
+   *Gratis, Google Play Store OR Flatpak, Fully FOSS, Active, Default Permissions*  
+   End to end encypted messenger for both Android and Linux. Can call people through it as well.
+- ### 📱 [Berty](https://berty.tech/features) 🐐
+   *Gratis, Google Play Store, Fully FOSS, Active, Default Permissions*  
+   End to end encypted messenger that requires no phone number, name, face, or sim to sign up. Works even without an internet or data connection, through peer to peer technology, so long as someone else with the app is nearby.
+- ### 📱 [Quik](https://github.com/octoshrimpy/quik)
+   *Gratis, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A Material You SMS client, great for messaging those who still use SMS and won't swap to a more secure solution.
+- ### 📱 [Partisan SMS](https://github.com/wrwrabbit/Partisan-SMS) 🐐
+   *Gratis, F-Droid Repository, Fully FOSS, Inactive, Default Permissions*  
+   An SMS client that allows you to have end to end encrypted conversations with those who also use the app.
+
+# Group Messaging Services
+Services designed for messaging en masse - for example, the proprietary apps Discord or Slack. May still have the ability to message people more directly. Many of these are decentralized, in which case the entry listed will be a major client, with the federated service being specified in the notes. There are many, many clients that may not be listed.
+
+- ### 🛜 [Element](https://element.io/)
+   *Gratis & Self-Hostable, F-Droid Repository OR Flatpak, Fully FOSS, Active, Default Permissions*  
+   A client for the federated service Matrix.org. Works in a very similar way to Discord or Slack, but FOSS and end to end encrypted.
+- ### 🖥️ [Konversation](https://konversation.kde.org/)
+   *Gratis & Self-Hostable, Fedora 40 KDE Repository, Fully FOSS, Active*  
+   A client for IRC, the Internet Relay Chat. Official client for the KDE Desktop environment, and GUI-based unlike many IRC clients. Does not have built-in end to end encryption.
+- ### 🖥️ [Polari](https://apps.gnome.org/Polari/)
+   *Gratis & Self-Hostable, Fedora 40 Gnome Repository, Fully FOSS, Active*  
+   A client for IRC, the Internet Relay Chat. Official client for the Gnome Desktop environment, and GUI-based unlike many IRC clients. Does not have built-in end to end encryption.
+- ### 📱 [Revolution IRC](https://github.com/MCMrARM/revolution-irc)
+   *Gratis & Self-Hostable, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A client for IRC, the Internet Relay Chat. GUI-based for Android. Does not have built-in end to end encryption.
+- ### 🖥️ [Dino](https://dino.im/)
+   *Gratis & Self-Hostable, Fedora Linux Repository, Fully FOSS, Active, Default Permissions*  
+   A client for XMPP, the Extensible Messaging and Presence Protocol. GUI-based for Linux. Does not have built-in end to end encryption.
+- ### 📱 [Conversations](https://conversations.im/)
+   *Gratis & Self-Hostable, F-Droid Repository, Fully FOSS, Active, Default Permissions*  
+   A client for XMPP, the Extensible Messaging and Presence Protocol. GUI-based for Android. Does not have built-in end to end encryption.
+- ### 🛜 [Spacebar](https://spacebar.chat/)
+   *Gratis & Self-Hostable, No Download, Fully FOSS, Active, Default Permissions*  
+   A FOSS reimplementation of Discord with large degrees of cross-compatibility. End to end encrypted, self-hostable, and with more customization and security options.
+- ### 🛜 [Revolt](https://spacebar.chat/)
+   *Gratis & Self-Hostable, Revolt F-Droid Repository OR Flatpak, Fully FOSS, Active, Default Permissions*  
+   A good GUI app with a very familiar design that is soon to have end to end encryption.
