@@ -24,7 +24,7 @@ Note: Software may be listed under multiple sections, should they be relevant to
 [Firefox Addons](#firefox-addons)  
 [Search Engines](#search-engines)  
 [Darknet Access](#darknet-access)  
-[Phone Callingg](#phone-calling)  
+[Phone Calling](#phone-calling)  
 [Messaging Services](#messaging-services)  
 [Group Messaging Services](#group-messaging-services)
 
